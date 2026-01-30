@@ -1,2 +1,2 @@
 # Calculo-Numerico-em-phyton
-2 Projetos de cálculos numéricos em Phyton
+Método da Bisseccao, Metodo de Newton e Metodo da Secante.
